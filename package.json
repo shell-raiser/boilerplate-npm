@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Shell Raiser",
-    "description": "Project to follow along https://www.freecodecamp.org/learn/back-end-development-and-apis",
+	"description": "Project to follow along https://www.freecodecamp.org/learn/back-end-development-and-apis",
+    "keywords": [ "freecodecamp", "project", "learn" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
